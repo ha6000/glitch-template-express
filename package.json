@@ -1,0 +1,19 @@
+{
+  "name": "glitch-template-nodejs",
+  "version": "1.0.0",
+  "description": "A empty nodejs template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha6000/glitch-template-nodejs.git"
+  },
+  "author": "Dev Harry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha6000/glitch-template-nodejs/issues"
+  },
+  "homepage": "https://github.com/ha6000/glitch-template-nodejs#readme"
+}
