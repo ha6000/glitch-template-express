@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ha6000/glitch-template-nodejs/issues"
   },
-  "homepage": "https://github.com/ha6000/glitch-template-nodejs#readme"
+  "homepage": "https://github.com/ha6000/glitch-template-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
