@@ -1,1 +1,1 @@
-# This is a empty nodejs template
+# This is a nodejs express template
